@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Call Contact Button -->
+    <Button
+        android:id="@+id/btnCallContact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@android:color/darker_gray"
+        android:text="Call Contact"
+        android:textColor="@android:color/white" />
+
+    <!-- Ambulance Button -->
+    <Button
+        android:id="@+id/btnAmbulance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@android:color/darker_gray"
+        android:text="Ambulance"
+        android:textColor="@android:color/white" />
+
+    <!-- Police Button -->
+    <Button
+        android:id="@+id/btnPolice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@android:color/darker_gray"
+        android:text="Police"
+        android:textColor="@android:color/white" />
+
+    <!-- Fire Fighter Button -->
+    <Button
+        android:id="@+id/btnFireFighter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@android:color/darker_gray"
+        android:text="Fire Fighter"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

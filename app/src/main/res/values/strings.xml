@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">callME</string>
+    <string name="emergency_number_1">Emergency Number 1</string>
+    <string name="message">Message</string>
+    <string name="update">Update</string>
+    <string name="profile">Profile</string>
+    <string name="title_activity_profile_layout">ProfileLayout</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="profile_button">Profile Button</string>
+    <string name="alert_button">Alert Button</string>
+    <string name="home_button">Home Button</string>
+    <string name="hi_gian">Hi Gian</string>
+    <string name="action_button">Action Button</string>
+    <string name="gambarprofile">gambarprofile</string>
+</resources>
